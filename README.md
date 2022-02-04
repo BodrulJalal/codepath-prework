@@ -37,6 +37,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+I had trouble with the app loading on the simulator for some reason, so I ended up re doing the whole project again. Then when I was getting familiar with Github, I couldn't open the edit file so I did it all over again a 2nd time but this time I knew the steps and was familiar with it so I was able to do it smoothly and finally was able to submit it.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
