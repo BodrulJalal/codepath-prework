@@ -1,13 +1,8 @@
-//
-//  TipCalulcator_PreWork_Bodrul_JalalUITestsLaunchTests.swift
-//  TipCalulcator PreWork Bodrul JalalUITests
-//
-//  Created by Bodrul on 2/4/22.
-//
+//___FILEHEADER___
 
 import XCTest
 
-class TipCalulcator_PreWork_Bodrul_JalalUITestsLaunchTests: XCTestCase {
+class ___FILEBASENAMEASIDENTIFIER___: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

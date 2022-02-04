@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  TipCalulcator PreWork Bodrul Jalal
+//  TipCalc - Prework
 //
 //  Created by Bodrul on 2/4/22.
 //

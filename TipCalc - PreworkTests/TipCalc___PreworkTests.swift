@@ -1,14 +1,9 @@
-//
-//  TipCalulcator_PreWork_Bodrul_JalalTests.swift
-//  TipCalulcator PreWork Bodrul JalalTests
-//
-//  Created by Bodrul on 2/4/22.
-//
+//___FILEHEADER___
 
 import XCTest
-@testable import TipCalulcator_PreWork_Bodrul_Jalal
+@testable import ___VARIABLE_productName:identifier___
 
-class TipCalulcator_PreWork_Bodrul_JalalTests: XCTestCase {
+class ___FILEBASENAMEASIDENTIFIER___: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
